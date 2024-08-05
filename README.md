@@ -13,5 +13,6 @@ Next.js
 Supabase  
 PostgreSQL  
 Typescript  
+TailwindCSS  
 Deployed to Vercel  
 Sendgrid SMTP
