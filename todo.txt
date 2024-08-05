@@ -1,0 +1,5 @@
+Separate page for registration
+Recover password flow
+Protect dashboard pages with HOC
+Create form and API route to write to supabase
+Protect API route with user auth
