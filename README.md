@@ -1,10 +1,15 @@
-## MVP Starter Template
+# MVP Starter Template
 
-CRUD
-Authentation
+## Features
+
+CRUD  
+Authentication
 
 ## Using
 
-Next.js
-Supabase
+Next.js  
+Supabase  
+PostgreSQL  
+Typescript  
+Deployed to Vercel  
 Sendgrid SMTP
